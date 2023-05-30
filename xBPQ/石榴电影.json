@@ -1,0 +1,29 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "石榴电影",
+  "主页url": "https://hei19.com",
+  
+  "分类": "电影$1#剧集$2#综艺$3#动漫$4",
+  
+  "分类url": "https://hei19.com/catalog?column={cateId}&sort=1&per_page=72&page={catePg}",
+  
+  "二次截取": "\"data\":&&,\"from\"",
+  "数组": "{&&}",
+  "图片": "\"cover\":\"&&\"",
+  "标题": "\"name\":\"&&\"",
+  "链接": "\"id\":&&,",
+  "链接前缀": "https://hei19.com/detail/",
+  "副标题": "\"tag\":\"&&\"",
+  
+  "搜索模式": "0",
+  "搜索后缀": "/detail/",
+  
+  "状态": "0",
+  "导演": "导演：&&</div>",
+  "主演": "主演：&&</div>",
+  "简介": "简介：&&</div>",
+  
+  "线路数组": "<span class=\"more&&</div>",
+  "线路标题": "title\">&&</h3>",
+  
+  "播放数组": "<ul class=\"stui-content&&</ul>"}
