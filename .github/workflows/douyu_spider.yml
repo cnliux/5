@@ -34,4 +34,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: douyu-results
-        path: ./斗鱼.txt
+        path: 斗鱼.txt
