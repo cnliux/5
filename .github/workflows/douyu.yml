@@ -25,4 +25,4 @@ jobs:
       env:
         # 添加任何必要的环境变量
       run: |
-        python your_script_name.py
+        python douyu.py
