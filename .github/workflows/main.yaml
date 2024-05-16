@@ -1,4 +1,4 @@
-name: Douyu Crawler
+name: 斗鱼直播间号抓
 
 on:
   schedule:
