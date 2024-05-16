@@ -23,7 +23,7 @@ jobs:
 
       - name: Run Crawler
         run: |
-          python douyu.py  # 请将'your_script.py'替换为你的Python脚本的实际名称
+          python ./douyu.py  # 请将'your_script.py'替换为你的Python脚本的实际名称
 
       - name: Upload Result
         uses: actions/upload-artifact@v2
